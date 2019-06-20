@@ -14,6 +14,6 @@ function div(a, b){
     return a / b;
 }
 
-function all(a,b,c,d){
-    return a+b-c/d
+function all(a,b,c,d,e){
+    return a+b-c/d*e
 }
