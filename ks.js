@@ -1,4 +1,4 @@
 function name(){
-    console.log('komalshivani')
-    return 'komalshivani'
+    console.log('ks')
+    return 'komal shivani=keep smiling'
 }
